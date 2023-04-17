@@ -25,3 +25,16 @@ console.log(obj[123]);
 console.log(obj["3.45"]);
 console.log(obj[3.45]);
 console.log(obj.age2);
+
+
+
+
+
+console.log("==========");
+const user = {
+	name: "unyo",
+	age: 25
+};
+
+user.age = 26;
+console.log(user.age);
